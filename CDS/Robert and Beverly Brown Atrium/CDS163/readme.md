@@ -1,1 +1,17 @@
-Provost Bestavros locks you in CDS 163 with this million line text file which is all characters from the alphabet. One line at random has the number 67 followed by a 20 character hash, followed by 67 again. You need to find it and give it to this python script which gives back your permissions to exit the room.
+Provost Bestavros immediately locks you in CDS 163
+
+"""
+Students!
+Before you are let out of this room you will learn how to use grep and chmod!
+You are given this million line text file which is all characters from the alphabet.
+ One line at random has the number 67 followed by a 20 character hash, followed by 67 again.
+ You need to find it this hash!
+"""
+
+Also, to get out, pass the hash in between the 67s to the python file in this folder.
+The file is currently set to having no permissions, but you have sudo permissions so you can change those permissions to allow read access
+chmod will be useful for this
+
+Once you manage to run the python file and give it your hash, it will tell you you may exit the room
+
+(actually locking down the file system would be harder, play along and don't just cd .. :)   )
