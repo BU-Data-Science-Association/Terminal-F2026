@@ -1,0 +1,1 @@
+Provost Bestavros locks you in CDS 163 with this million line text file which is all characters from the alphabet. One line at random has the number 67 followed by a 20 character hash, followed by 67 again. You need to find it and give it to this python script which gives back your permissions to exit the room.
